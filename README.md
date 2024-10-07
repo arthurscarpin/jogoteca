@@ -10,6 +10,9 @@ Com o objetivo de colocar em prática os conhecimento adquiridos em Python orien
     </a>
 </div>
 
+## 🕹️ Interface - Jogoteca
+![img-jogoteca](https://github.com/user-attachments/assets/b6f0fab6-da42-46d8-a3f0-9ad6864ff14c)
+
 ## 🛠️ Como executar?
 Para executar esse projeto é necessário seguir o passo a passo a seguir:
 
