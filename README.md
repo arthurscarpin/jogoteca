@@ -40,11 +40,5 @@ python prepara_banco.py
 python jogoteca.py
 ```
 
-## 📝 Testes
-
-Para testar essa API, você poderá utilizar a ferramenta Postman.
-
-Esse link contém um totorial de como usar a ferramenta: [Tutorial Postman](https://gist.github.com/zec4o/f4a600fafa50003e315fa3fcfd9c1e4a)
-
 ## 📁 Documentações de referência
 [Documentação Flask](https://flask.palletsprojects.com/en/3.0.x/)
